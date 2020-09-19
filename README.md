@@ -1,1 +1,1 @@
-# Bedtime-Stories
+# BedtimeStoriesAppAuthenticatingUsers
